@@ -1,6 +1,4 @@
-Here is a professional and well-structured README file for your quiz and question microservices project using Spring, Spring Boot, and Spring Cloud:
 
----
 
 # Quiz and Question Microservices Project
 
